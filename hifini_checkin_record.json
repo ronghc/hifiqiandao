@@ -1,5 +1,5 @@
 {
-  "total": 191,
+  "total": 192,
   "years": {
     "2025": {
       "total": 73,
@@ -104,7 +104,7 @@
       "points": 172
     },
     "2026": {
-      "total": 118,
+      "total": 119,
       "months": {
         "2026-01": {
           "total": 30,
@@ -251,17 +251,18 @@
           "days_in_month": 30
         },
         "2026-05": {
-          "total": 2,
+          "total": 3,
           "days": [
             "2026-05-01",
-            "2026-05-02"
+            "2026-05-02",
+            "2026-05-03"
           ],
-          "points": 5,
+          "points": 8,
           "days_in_month": 31
         }
       },
-      "points": 263
+      "points": 266
     }
   },
-  "total_points": 435
+  "total_points": 438
 }
